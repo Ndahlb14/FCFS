@@ -1,2 +1,0 @@
-# FCFS
-Programming Assignment 
